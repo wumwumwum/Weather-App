@@ -1,6 +1,8 @@
-# Weather-App
-
+# WeatherModule
 Provides current weather information.
+
+![alt text](https://github.com/wumwumwum/Weather-App/blob/main/assets/images/WeatherModule.jpg)
+
 
 ## Overview
 
